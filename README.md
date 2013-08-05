@@ -7,7 +7,7 @@ This Bash Script Dowload and Install Automated Sun Java on OpenSuse 12+.
 
 OSJAIS is in very early stage, most Features are not implemented (at this time).
 
-Get CSS Batch
+Get OSJAIS
 ------------------------
 git clone https://github.com/Aishou/OSJAIS.git
 
