@@ -19,7 +19,7 @@
  
 version="0.0.1"
 
-echo "OpenSuse Sun Java Automated Instaltion Script Version $version"
+echo "OpenSuse Sun Java Automated Installation Script Version $version"
 echo "by Aishou <kaito.linux@gmail.com>"
 echo ""
  
