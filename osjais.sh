@@ -1,5 +1,6 @@
 #!/bin/bash
-# Copyright 2013 Aishou <kaito.linux@gmail.com>
+
+#  Copyright 2013 Aishou <kaito.linux@gmail.com>
 # 
 #  This file is part of OSJAIS.
 # 
