@@ -3,7 +3,7 @@ OSSJAIS
 
 OSSJAIS stands for OpenSuse Sun Java Automated Installation Script.
 
-This Bash Script Dowload and Install Automated Sun Java on OpenSuse 12+.
+This Bash Script Download and Install Automated Sun Java on OpenSuse 12+.
 
 OSSJAIS is in very early stage, most Features are not implemented (at this time).
 
